@@ -11,6 +11,7 @@ It is a weighted average of the number of words per sentence, and the number of 
 3. Web scrapping: A list of websites from a .CSV file (uploaded on Google Drive) were scrapped.
 4. For texual Analysis various helper functions were created.
 5. The texual Analysis resulted in the following parameters:
+
    a. POSITIVE SCORE
    
    b. NEGATIVE SCORE
