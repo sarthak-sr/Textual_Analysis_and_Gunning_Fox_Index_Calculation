@@ -3,6 +3,7 @@ Gunning Fox Index(GFI) :
 It is a weighted average of the number of words per sentence, and the number of long words per word. An interpretation is that the text can be understood by someone who left full-time education at a later age than the index.
 
 1. This project involves two parts:
+
    a. Web-scrapping (using beautifulsoup4)
    
    b. Textual Analysis
