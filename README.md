@@ -1,4 +1,7 @@
 # Texual_Analysis_and_Gunning_Fox_Index_Calculation
+
+**NLP Usecase: The scores mentioned in the point number 5 are very useful while analysing a text/content. The goal of this project is to implement an NLP pipeline End-to-End which results in the complete analysis.**
+
 Gunning Fox Index(GFI) :
 It is a weighted average of the number of words per sentence, and the number of long words per word. An interpretation is that the text can be understood by someone who left full-time education at a later age than the index.
 
